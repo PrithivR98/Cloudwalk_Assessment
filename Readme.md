@@ -11,3 +11,4 @@ During development, I recorded up to 30 minutes of the coding process to capture
 - **Real-time experimentation**: Tested small snippets for audio augmentation and spectrogram visualization before integrating into the pipeline.
 
 This recording provides a **raw glimpse of the development workflow** and demonstrates how LLMs were used as active coding partners.
+
