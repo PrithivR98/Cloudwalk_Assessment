@@ -15,3 +15,5 @@ Cross-Validation Scores: {'LightGBM': 0.912962962962963}
 
 This recording provides a **raw glimpse of the development workflow** and demonstrates how LLMs were used as active coding partners.
 
+
+My other work : https://github.com/PrithivR98/Music-Classification-and-Recommendation/tree/main
